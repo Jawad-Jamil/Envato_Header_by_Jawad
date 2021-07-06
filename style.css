@@ -1,0 +1,48 @@
+
+body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+height: 55px;
+background-color: #262626;
+padding-left: 16px;
+padding-right: 15px;
+}
+
+.logo{
+    float: left;
+    margin: 18px 0;
+    width: 1236px;
+}
+
+.img{
+    height: 22px;
+    color: white;
+}
+
+.buy{
+    margin-bottom: 20px;
+}
+
+.btn{
+    margin: 11px 0;
+    background-color: #82b440;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    font-size: 14px;
+    padding: 5px 20px;
+    line-height: 1.5;
+    padding-bottom: 6.5px;
+}
+
+.btn:hover{
+  background-color: #7AA93C;
+}
